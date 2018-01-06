@@ -36,6 +36,7 @@ func main() {
 		fmt.Println(`Name:		`, result.Name)
 		fmt.Println(`Email:		`, result.Email)
 		fmt.Println(`Bio:		`, result.Bio)
+		fmt.Println(`Link:      `, result.HTMLURL)
 		fmt.Println("")
 	}
 }
